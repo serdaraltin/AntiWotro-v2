@@ -1,0 +1,10 @@
+c:\users\main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\bin\Debug\AntiWotro.exe
+c:\users\main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\bin\Debug\AntiWotro.pdb
+c:\users\main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.Properties.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.exe
+c:\users\main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.pdb
+c:\users\main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.file_add.resources
+C:\Users\Main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.csprojResolveAssemblyReference.cache
+C:\Users\Main\documents\visual studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.view_data.resources
+C:\Users\Main\Documents\Visual Studio 2010\Projects\antiwotro_v2\AntiWotro\obj\x86\Debug\AntiWotro.main.resources
